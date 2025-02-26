@@ -6,16 +6,16 @@ Este projeto tem como objetivo desenvolver uma aplicação desktop utilizando Ja
 
 ## 🛠 **Principais Tecnologias e Conceitos**
 
--*ORM com JPA/Hibernate:* mapeamento objeto-relacional  
--*Arquitetura em camadas:* separação de responsabilidades  
--*Web e HTTP:* comunicação com serviços externos  
--*REST/Web Services:* integração com APIs  
--*Modelo de domínio complexo*  
--*Maven:* gerenciamento de dependências  
--*Banco de dados H2:* banco de dados em memória para testes  
--*Spring Data JPA:* abstração para acesso a dados  
--*CRUD Completo:* criação, leitura, atualização e remoção de dados  
-Tratamento de exceções: captura e manipulação de erros  
+- **ORM com JPA/Hibernate:** mapeamento objeto-relacional  
+- **Arquitetura em camadas:** separação de responsabilidades  
+- **Web e HTTP:** comunicação com serviços externos  
+- **REST/Web Services:** integração com APIs  
+- **Modelo de domínio complexo**  
+- **Maven:** gerenciamento de dependências  
+- **Banco de dados H2:** banco de dados em memória para testes  
+- **Spring Data JPA:** abstração para acesso a dados  
+- **CRUD Completo:** criação, leitura, atualização e remoção de dados  
+- **Tratamento de exceções:** captura e manipulação de erros  
 
 ## **🚀 Objetivo**
 
